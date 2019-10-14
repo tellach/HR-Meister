@@ -1,0 +1,35 @@
+   private function comparer_salaire($id,$nouveau_salaire)
+    {
+        $bdd=$this->connexion_bdd();
+        $req=$bdd->prepare('SELECT * FROM employe WHERE id=?');
+        $req->execute(array($id));
+        $salaire=$req->fetch();
+        if ($salaire['salaire']==$nouveau_salaire)
+        {
+            $req1=$bdd->prepare('INSERT INTO salaire (matricule,date,montant) VALUES (:matricule,:date,:montant)');
+            $req1->execute(array(
+                'matricule'=>$salaire['matricule'],
+                'date'=>date("Y-m-d"),
+                'montant'=>$nouveau_salaire,
+
+            ));
+        }
+
+    }
+    private function comparer_salaire_ajout($nouveau_salaire,$matricule)
+    {
+        $bdd=$this->connexion_bdd();
+
+            $req1=$bdd->prepare('INSERT INTO salaire (matricule,date,montant) VALUES (:matricule,:date,:montant)');
+            $req1->execute(array(
+                'matricule'=>$matricule,
+                'date'=>date("Y-m-d"),
+                'montant'=>$nouveau_salaire,
+
+            ));
+
+
+    }
+
+ $this->comparer_salaire($id,$this->salaire);
+$this->comparer_salaire_ajout($this->salaire,$this->matricule);

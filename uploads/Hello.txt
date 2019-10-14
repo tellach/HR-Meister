@@ -1,0 +1,17 @@
+public class Hello{
+
+public static void main(String[] args){
+System.out.println("HHHHELLOOOO WORLDD !!! ");}
+}
+
+
+
+
+changer le nom des fichiers quon fait rentrer par form 
+ajouter les actions dans chaque page view pour que tout soit accessible
+ajouter le model supprimer ou il le faut 
+ajuster le theme ou il le faut 
+ajouter laide sur le site 
+manuel dutilisation 
+rapport 
+presentation

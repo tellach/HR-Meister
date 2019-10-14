@@ -1,0 +1,34 @@
+(ClassName)==>UpperCamelCase
+(functioName, variable)==>lowerCase
+(ENVVARIABLE) ==> CAMELCASE
+
+
+Config
+	bdd 
+		configuration pour connecter a la bdd (bd name, user, pass,sgbd,host, char type).
+	mail config
+	env File (URL)
+
+Controller
+	controller(commun)
+	AuthController
+	GrhController
+	EvetnController 
+
+Dal
+	Connexion abec bdd
+	
+model
+	Compte
+	User
+	Event
+Services
+	PhpMailer
+	Security
+	SMS
+view
+	Pages Front
+
+public
+	assets
+

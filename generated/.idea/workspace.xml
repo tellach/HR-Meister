@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f8ec77d-6f7a-444f-bbfd-5219e1de157f" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="UserAccountMenu.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/view/UserAccountMenu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="111" column="137" lean-forward="false" selection-start-line="111" selection-start-column="137" selection-end-line="111" selection-end-column="137" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>insert_db_empl</find>
+      <find>total</find>
+      <find>accueil</find>
+      <find>--&gt;</find>
+      <find>&lt;!--</find>
+      <find>bien</find>
+      <find>Eduardo</find>
+      <find>Nombre de congés par type pour cette année</find>
+      <find>gant</find>
+      <find>accue</find>
+      <find>glo</find>
+      <find>accueil(</find>
+      <find>search</find>
+      <find>My tab</find>
+      <find>ajout</find>
+      <find>modifi</find>
+      <find>répo</find>
+      <find>pattern</find>
+      <find>format</find>
+      <find>duration</find>
+      <find>Resource</find>
+      <find>Resourc</find>
+      <find>resource</find>
+      <find>StartDate</find>
+      <find>Start Date</find>
+      <find>consomé</find>
+      <find>consom</find>
+      <find>completion</find>
+      <find>comp</find>
+      <find>telecharger</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/view/ajouter_objectif.php" />
+        <option value="$PROJECT_DIR$/view/ajouter_entretien_calendrier.php" />
+        <option value="$PROJECT_DIR$/view/ajouter_candidat.php" />
+        <option value="$PROJECT_DIR$/view/ajout_conge2.php" />
+        <option value="$PROJECT_DIR$/view/ajouter_employe.php" />
+        <option value="$PROJECT_DIR$/view/ajoutCompte.php" />
+        <option value="$PROJECT_DIR$/view/ajout_conge.php" />
+        <option value="$PROJECT_DIR$/view/ajouter_question.php" />
+        <option value="$PROJECT_DIR$/view/ajouter_question1.php" />
+        <option value="$PROJECT_DIR$/view/Calendrier.php" />
+        <option value="$PROJECT_DIR$/view/candidats.php" />
+        <option value="$PROJECT_DIR$/view/commencer_embauche.php" />
+        <option value="$PROJECT_DIR$/view/conges_venir.php" />
+        <option value="$PROJECT_DIR$/view/conges_employe.php" />
+        <option value="$PROJECT_DIR$/view/conges_pass.php" />
+        <option value="$PROJECT_DIR$/view/conges_prez.php" />
+        <option value="$PROJECT_DIR$/view/contrat_input.php" />
+        <option value="$PROJECT_DIR$/view/gantt.php" />
+        <option value="$PROJECT_DIR$/view/historique_salaire.php" />
+        <option value="$PROJECT_DIR$/view/entretien_passes.php" />
+        <option value="$PROJECT_DIR$/view/entretien_today.php" />
+        <option value="$PROJECT_DIR$/view/entretien_venir.php" />
+        <option value="$PROJECT_DIR$/view/info_candidat.php" />
+        <option value="$PROJECT_DIR$/view/info_embauche.php" />
+        <option value="$PROJECT_DIR$/view/modifConge_prez.php" />
+        <option value="$PROJECT_DIR$/view/modification_admin_compte.php" />
+        <option value="$PROJECT_DIR$/view/modification_employe.php" />
+        <option value="$PROJECT_DIR$/view/modification_objectif.php" />
+        <option value="$PROJECT_DIR$/view/modifier_candidat.php" />
+        <option value="$PROJECT_DIR$/view/modifConge_venir.php" />
+        <option value="$PROJECT_DIR$/view/modifier_conge.php" />
+        <option value="$PROJECT_DIR$/view/modifier_congeOld.php" />
+        <option value="$PROJECT_DIR$/view/modifier_date.php" />
+        <option value="$PROJECT_DIR$/view/modifier_embauche.php" />
+        <option value="$PROJECT_DIR$/view/modifier_question.php" />
+        <option value="$PROJECT_DIR$/view/nom_logo_entreprise.php" />
+        <option value="$PROJECT_DIR$/view/param.php" />
+        <option value="$PROJECT_DIR$/view/parametre_entreprise.php" />
+        <option value="$PROJECT_DIR$/view/telecharger_annuaire.php" />
+        <option value="$PROJECT_DIR$/view/telecharger_historique.php" />
+        <option value="$PROJECT_DIR$/view/telechargerAttestation.php" />
+        <option value="$PROJECT_DIR$/view/telechargerCertificat.php" />
+        <option value="$PROJECT_DIR$/view/telechargerConge.php" />
+        <option value="$PROJECT_DIR$/view/telechargerContrat.php" />
+        <option value="$PROJECT_DIR$/view/validation_entretien.php" />
+        <option value="$PROJECT_DIR$/view/recuperation_password.php" />
+        <option value="$PROJECT_DIR$/view/recup_password_lien_mail.php" />
+        <option value="$PROJECT_DIR$/view/new_password.php" />
+        <option value="$PROJECT_DIR$/view/info_employe.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/view/UserAccountMenu.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="width" value="929" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="projet_grh6.7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projet_grh6.7" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="projet_grh6.7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projet_grh6.7" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\projet_grh2.0\model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\hrmeister\projet_grh6.7\Aide" />
+      <recent name="C:\wamp64\www\Projet S2\projet_grh6.1\view" />
+      <recent name="C:\wamp64\www\Projet S2\projet_grh6.1\public\plugins" />
+      <recent name="C:\wamp64\www\Projet S2\projet_grh6.1\public" />
+      <recent name="C:\wamp64\www\Projet S2\Projet_grh5.6\view" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f8ec77d-6f7a-444f-bbfd-5219e1de157f" name="Default" comment="" />
+      <created>1520175838802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520175838802</updated>
+      <workItem from="1520175840615" duration="2821000" />
+      <workItem from="1520178707429" duration="3223000" />
+      <workItem from="1520243482950" duration="3689000" />
+      <workItem from="1520252124964" duration="4805000" />
+      <workItem from="1520279127910" duration="6148000" />
+      <workItem from="1520298515722" duration="2871000" />
+      <workItem from="1520321798709" duration="11046000" />
+      <workItem from="1520378450125" duration="12396000" />
+      <workItem from="1520456257694" duration="3047000" />
+      <workItem from="1520512795727" duration="4883000" />
+      <workItem from="1520538213949" duration="135000" />
+      <workItem from="1520606815823" duration="22031000" />
+      <workItem from="1520677140014" duration="2967000" />
+      <workItem from="1520690349414" duration="12997000" />
+      <workItem from="1520718482295" duration="11731000" />
+      <workItem from="1520847897180" duration="16678000" />
+      <workItem from="1521630199192" duration="3617000" />
+      <workItem from="1521710489165" duration="9228000" />
+      <workItem from="1521741713960" duration="3911000" />
+      <workItem from="1521813874122" duration="17332000" />
+      <workItem from="1521893455508" duration="10404000" />
+      <workItem from="1521934997723" duration="713000" />
+      <workItem from="1521971566840" duration="28617000" />
+      <workItem from="1522070512316" duration="1715000" />
+      <workItem from="1522072699485" duration="7442000" />
+      <workItem from="1522083650378" duration="2041000" />
+      <workItem from="1522149716019" duration="5297000" />
+      <workItem from="1522162278243" duration="2095000" />
+      <workItem from="1522187084202" duration="4066000" />
+      <workItem from="1522271508812" duration="1061000" />
+      <workItem from="1522272577205" duration="8214000" />
+      <workItem from="1522327669966" duration="1461000" />
+      <workItem from="1522338074673" duration="1005000" />
+      <workItem from="1522349056039" duration="1425000" />
+      <workItem from="1522355689550" duration="2556000" />
+      <workItem from="1522404689664" duration="3645000" />
+      <workItem from="1522540450957" duration="6809000" />
+      <workItem from="1522595768734" duration="16745000" />
+      <workItem from="1523625776046" duration="12933000" />
+      <workItem from="1523709849145" duration="1194000" />
+      <workItem from="1523711068944" duration="2464000" />
+      <workItem from="1523722956318" duration="4648000" />
+      <workItem from="1523772027752" duration="223000" />
+      <workItem from="1523956023345" duration="9118000" />
+      <workItem from="1524056336053" duration="20361000" />
+      <workItem from="1524144060926" duration="2837000" />
+      <workItem from="1524161174075" duration="2539000" />
+      <workItem from="1524238128425" duration="2050000" />
+      <workItem from="1524240436529" duration="62000" />
+      <workItem from="1524240553641" duration="14478000" />
+      <workItem from="1524302918439" duration="5687000" />
+      <workItem from="1524421277817" duration="13949000" />
+      <workItem from="1524477807263" duration="8554000" />
+      <workItem from="1524591546965" duration="1448000" />
+      <workItem from="1524926486635" duration="2889000" />
+      <workItem from="1525029362584" duration="8012000" />
+      <workItem from="1525122914385" duration="3277000" />
+      <workItem from="1525126401909" duration="4536000" />
+      <workItem from="1525131533571" duration="1905000" />
+      <workItem from="1525209977171" duration="3273000" />
+      <workItem from="1525132582743" duration="4185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="391489000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1319" height="784" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1696086" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="C:/" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="35" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/view/ajouter_objectif.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="283" column="3" lean-forward="true" selection-start-line="283" selection-start-column="3" selection-end-line="285" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/ajouter_question.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="153" column="2" lean-forward="false" selection-start-line="153" selection-start-column="2" selection-end-line="153" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/ajouter_question1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="152" column="2" lean-forward="false" selection-start-line="152" selection-start-column="2" selection-end-line="152" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/Calendrier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="240" column="2" lean-forward="false" selection-start-line="240" selection-start-column="2" selection-end-line="240" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/candidats.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="223" column="2" lean-forward="false" selection-start-line="223" selection-start-column="2" selection-end-line="223" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/commencer_embauche.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="205" column="2" lean-forward="false" selection-start-line="205" selection-start-column="2" selection-end-line="205" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/conges_employe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="243" column="2" lean-forward="false" selection-start-line="243" selection-start-column="2" selection-end-line="243" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/conges_pass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="249" column="2" lean-forward="false" selection-start-line="249" selection-start-column="2" selection-end-line="249" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/conges_prez.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/conges_venir.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="278" column="2" lean-forward="false" selection-start-line="278" selection-start-column="2" selection-end-line="278" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/control_sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2657">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/contrat_input.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="160" column="3" lean-forward="false" selection-start-line="160" selection-start-column="3" selection-end-line="162" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/gantt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="207" column="2" lean-forward="false" selection-start-line="207" selection-start-column="2" selection-end-line="207" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/entretien_passes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="239" column="2" lean-forward="false" selection-start-line="239" selection-start-column="2" selection-end-line="239" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/entretien_venir.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="242" column="2" lean-forward="false" selection-start-line="242" selection-start-column="2" selection-end-line="242" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/historique_salaire.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="227" column="2" lean-forward="true" selection-start-line="225" selection-start-column="3" selection-end-line="227" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/info_candidat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="170" column="2" lean-forward="false" selection-start-line="170" selection-start-column="2" selection-end-line="170" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/info_embauche.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="251" column="2" lean-forward="false" selection-start-line="251" selection-start-column="2" selection-end-line="251" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/modifConge_prez.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="204" column="2" lean-forward="false" selection-start-line="204" selection-start-column="2" selection-end-line="204" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/modification_objectif.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="306" column="2" lean-forward="false" selection-start-line="306" selection-start-column="2" selection-end-line="306" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/modifConge_venir.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="244" column="2" lean-forward="false" selection-start-line="244" selection-start-column="2" selection-end-line="244" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/modification_admin_compte.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="278" column="2" lean-forward="false" selection-start-line="278" selection-start-column="2" selection-end-line="278" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/modifier_candidat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="282" column="2" lean-forward="false" selection-start-line="280" selection-start-column="4" selection-end-line="282" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/modifier_conge.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="177" column="2" lean-forward="false" selection-start-line="177" selection-start-column="2" selection-end-line="177" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/modifier_congeOld.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="2" lean-forward="false" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/modifier_date.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="255" column="2" lean-forward="false" selection-start-line="255" selection-start-column="2" selection-end-line="255" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/modifier_embauche.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="219" column="2" lean-forward="false" selection-start-line="219" selection-start-column="2" selection-end-line="219" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/modifier_question.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="157" column="2" lean-forward="false" selection-start-line="157" selection-start-column="2" selection-end-line="157" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/nom_logo_entreprise.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="2" lean-forward="false" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/telecharger_annuaire.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="231" column="2" lean-forward="false" selection-start-line="231" selection-start-column="2" selection-end-line="231" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/telechargerCertificat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="232" column="2" lean-forward="false" selection-start-line="232" selection-start-column="2" selection-end-line="232" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/telechargerConge.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="231" column="2" lean-forward="false" selection-start-line="231" selection-start-column="2" selection-end-line="231" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/telechargerContrat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="232" column="2" lean-forward="false" selection-start-line="232" selection-start-column="2" selection-end-line="232" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/validation_entretien.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="233" column="2" lean-forward="false" selection-start-line="233" selection-start-column="2" selection-end-line="233" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/param.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="239" column="2" lean-forward="false" selection-start-line="239" selection-start-column="2" selection-end-line="239" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/parametre_entreprise.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="260" column="2" lean-forward="false" selection-start-line="260" selection-start-column="2" selection-end-line="260" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/connexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/recuperation_password.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="35" column="10" lean-forward="false" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/recup_password_lien_mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="36" column="10" lean-forward="false" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/telecharger_historique.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="139" column="85" lean-forward="true" selection-start-line="139" selection-start-column="25" selection-end-line="139" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/accueil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="45" column="29" lean-forward="true" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+          <folding>
+            <marker date="1525210651050" expanded="true" signature="25061:25104" ph="..." />
+            <marker date="1525210651050" expanded="true" signature="29053:29096" ph="..." />
+            <marker date="1525210651050" expanded="true" signature="32566:32609" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/css_links.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="78" lean-forward="false" selection-start-line="31" selection-start-column="78" selection-end-line="31" selection-end-column="78" />
+          <folding>
+            <element signature="n#style#0;n#link#14;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/info_employe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="129" column="23" lean-forward="false" selection-start-line="129" selection-start-column="23" selection-end-line="129" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/new_password.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="35" column="10" lean-forward="false" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/affichage_employes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="198" column="50" lean-forward="true" selection-start-line="198" selection-start-column="50" selection-end-line="198" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/entretien_today.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="240" column="2" lean-forward="false" selection-start-line="240" selection-start-column="2" selection-end-line="240" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/modification_employe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="544" column="12" lean-forward="false" selection-start-line="544" selection-start-column="12" selection-end-line="544" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="251" column="9" lean-forward="true" selection-start-line="248" selection-start-column="7" selection-end-line="251" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/telechargerAttestation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="136" column="0" lean-forward="true" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/UserAccountMenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="111" column="137" lean-forward="false" selection-start-line="111" selection-start-column="137" selection-end-line="111" selection-end-column="137" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

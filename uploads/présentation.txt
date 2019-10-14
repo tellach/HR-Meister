@@ -1,0 +1,37 @@
+*Démonstration :
+**La page de connexion :
+	La connexion au site est simple , elle nécissite un nom d'utilisateur et un mot de passe .
+	Si on a oublié notre mot de passe on peut cliquer sur le boutton mot de passe oublié pour recevoir un mail de recuperation 
+	Cette fonctionalité est est déjà réalisé mais pas encore intégré 
+
+**La page d'accueil :
+	La page  d'accueil est vide pour le moment mais elle va contenir des statistiques qui vont aider le grh à mieux organiser son travail
+	Il y a le sidebar qui nous offre la possibilité de naviguer entre les onglets du notre site
+	La nom et le logo de l'entreprise sont affichés à gauche 
+	L'utilisateur n'a que cliquer sur son nom à droite pour avoir plus d'information sur son compte et avoir la possibilité de déconnecter (PAS ENCORE INTEGRE)
+
+**La gestion des comptes :
+	Cet onglet nous offre la possibilité de :
+		***Visualiser la liste des comptes enregistrés sur le site (nom,prenom,privilege,nom d'utilisateur)
+		***Choisir combien de compte afficher par page selon notre préférence (10,25,50)
+		***Une méthode simple pour naviguer entre les différentes page
+		***Faire une recherche en temps réel par critère (tout les critères sont possible) ou bien une recherche général 
+		***Ajouter un nouveau compte
+		***Supprimer un compte
+		***Modifier un compte , on peut modifier touts les paramètres d'un compte 
+**La gestion des employés :
+	Cet onglet nous offre la possibilité de :
+		***Comme l'onglet précédent , la visualisation des employés avec une possibilité de rechercher par nom , prénom , matricule 
+		***Ajouter un nouveau employé , 
+		***Supprimer un employé
+		***Modifier les informations d'un employé 
+		***Afficher plus d'information sur un employé 
+			Cet onglet nous permet de :
+				****Generer les différentes références relative a cet employé(PAS ENCORE REALISER) 
+				****Afficher l'historique des salaires de cet employé
+				****Afficher tout les autres informations qui concernent cet employé
+***La gestion des conges
+	La visualisation des congés est déviser en 3 parties :
+		***Les congés déjà passés
+		***Les congés en cours de consomation , on a la possibilité de les modifier 
+		***

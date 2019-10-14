@@ -1,0 +1,48 @@
+//////////////////////////////controlleur////////////////////////////////////////
+function telecharger_entretien($matricule)
+{
+    $entretien=new Entretien_devaluation();
+    $x=$entretien->set_entretien($matricule);
+    if($x=='') {
+        $entretien_name='generated/entretien'.date("Y-m-d").$matricule.'.xlsx';
+        $entretien->insertion_entretient_das_bdd($matricule);
+        $entretien->modifier_entete($matricule);
+        $entretien->modifier_tableaux($matricule);
+        $entretien->supprimer_fichier('aa1.xlsx');
+        $entretien->modifier_les_ojectif_court_terme($matricule);
+        $entretien->supprimer_fichier('aa2.xlsx');
+        $entretien->modifier_les_ojectif_moyen_terme($matricule);
+        $entretien->supprimer_fichier('aa3.xlsx');
+        $entretien->modifier_les_ojectif_long_terme($matricule);
+        $entretien->supprimer_fichier('aa4.xlsx');
+        $employe=new Employe();
+        $employes=$employe->getemploye_matricule($matricule);
+        $employe=$employes->fetch();
+        $id_employe=$employe['id'];
+        require('view/validation_entretien.php');
+    }
+    else
+    {
+        affichage_objectif_critere2($matricule,$x);
+    }
+}
+
+function affichage_entretiens($matricule)
+{
+    $entretien=new Entretien_devaluation();
+    $entretien1=$entretien->tout_les_entretiens($matricule);
+    $employe=new Employe();
+    $employes=$employe->getemploye_matricule($matricule);
+    $employe=$employes->fetch();
+    $id_employe=$employe['id'];
+    require ('view/affichage_entretiens.php');
+}
+
+
+//////////////////////////////index//////////////////////////////////////
+  elseif (($_GET['action']=='affichage_entretiens')&&(isset($_GET['matricule'])))
+        {
+            affichage_entretiens($_GET['matricule']);
+        }
+/////////////////////info_employé///////////////////////////////
+        <a class="btn btn-success" style="margin-left: 50px;" type="button" href="index.php?matricule=<?=$matricule?>&amp;action=affichage_entretiens"><i class="fa fa-list"></i> Afficher les entretiens</a>
